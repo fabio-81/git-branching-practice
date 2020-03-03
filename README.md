@@ -14,3 +14,5 @@ A. Jupiter.
 Questions
 
 Q.How many legs do dogs have?
+
+Q.what colour is the sun?
