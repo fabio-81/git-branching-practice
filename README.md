@@ -12,3 +12,5 @@ The same question and the answer would appear on the dedicated 'answer branch'.
 Q. What is the largest planet in the solar system?
 A. Jupiter.
 Questions
+
+Q.How many legs do dogs have?
