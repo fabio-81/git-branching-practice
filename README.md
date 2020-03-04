@@ -13,10 +13,6 @@ Q. What is the largest planet in the solar system?
 A. Jupiter.
 Questions
 
-Q.How many legs do dogs have?
-
-Q.What colour is the sun?
-
 Q.Can an ostrich fly?
+A.No!
 
-Q.Why did the chicken cross the street?
