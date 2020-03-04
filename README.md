@@ -13,7 +13,7 @@ Q. What is the largest planet in the solar system?
 A. Jupiter.
 Questions
 
-Q.How many legs do dogs have?
-
-Q.what colour is the sun?
+Q.What colour is the sun?
 A.Yellow
+
+
