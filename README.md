@@ -15,4 +15,8 @@ Questions
 
 Q.How many legs do dogs have?
 
-Q.what colour is the sun?
+Q.What colour is the sun?
+
+Q.Can an ostrich fly?
+
+Q.Why did the chicken cross the street?
